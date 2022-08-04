@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/button.xml" value="0.2845" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/circle_drawable.xml" value="0.297" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/corner_border_black.xml" value="0.297" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/corner_border_primary.xml" value="0.297" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/corner_border_white.xml" value="0.297" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.249" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.3015" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/font/baloo.xml" value="0.287962962962963" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/font/bangers.xml" value="0.287962962962963" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/font/muli.xml" value="0.1" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/font/muli_black.xml" value="0.287962962962963" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/activity_cap_nhat_mat_khau.xml" value="0.25" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/activity_xac_nhan_mat_khau.xml" value="0.215962441314554" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/addcategory_layout.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/addmenu_layout.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/addstaff_layout.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/addtable_layout.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/amount_menu_layout.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/banan_layout.xml" value="0.13247213779128672" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/chitietdonhang_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_donhang.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_nhanvien.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.29791666666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_thanhtoan.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_themloai.xml" value="0.16869300911854104" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/custom_layout_themmonan.xml" value="0.16869300911854104" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/dangky_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/dangnhap_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/detailstatistic_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displaycategory_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displayhome_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displaymenu_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displaystaff_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displaystatistic_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/displaytable_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/edittable_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/home_layout.xml" value="0.33" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/intro_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/loaimonan_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/login_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/menu_navigation_header.xml" value="0.18" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/menutrangchu_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/monan_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/nhanvien_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/payment_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/register2nd_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/register_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/splash_layout.xml" value="0.2446311858076564" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/suabanan_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/thanhtoan_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/thembanan_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/themloaimonan_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/themmonan_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/themnhanvien_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/themsoluongmon_layout.xml" value="0.27239583333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/thongke_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/trangchu_layout.xml" value="0.28020833333333334" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/layout/welcome_layout.xml" value="0.24322916666666666" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/menu/edit_context_menu.xml" value="0.24074074074074073" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/menu/item_menu.xml" value="0.25" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/menu/main_menu_navigation.xml" value="0.24074074074074073" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1525" />
+        <entry key="..\:/NAM4/KY1/DOT2/THUCTAPCSCHUYENNGANH/AppQLNH/App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1135" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/activity_cap_nhat_mat_khau.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/activity_xac_nhan_mat_khau.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/chitietdonhang_layout.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/custom_layout_donhang.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/custom_layout_nhanvien.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/custom_layout_thanhtoan.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/dangky_layout.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/dangnhap_layout.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/intro_layout.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/loaimonan_layout.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/menu_navigation_header.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/menutrangchu_layout.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/monan_layout.xml" value="0.1287037037037037" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/nhanvien_layout.xml" value="0.27219202898550726" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/trangchu_layout.xml" value="0.25" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/layout/welcome_layout.xml" value="0.33177083333333335" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/App/app/src/main/res/menu/main_menu_navigation.xml" value="0.5" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.116" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/activity_cap_nhat_mat_khau.xml" value="0.29347826086956524" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/chitietdonhang_layout.xml" value="0.22" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/custom_layout_donhang.xml" value="0.14808274470232088" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/custom_layout_nhanvien.xml" value="0.14228052472250252" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/custom_layout_themmonan.xml" value="0.22" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/dangky_layout.xml" value="0.1" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/loaimonan_layout.xml" value="0.15161453077699294" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/menu_navigation_header.xml" value="0.13698284561049445" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/menutrangchu_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/monan_layout.xml" value="0.15161453077699294" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/nhanvien_layout.xml" value="0.14228052472250252" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/suabanan_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/thanhtoan_layout.xml" value="0.22" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/thembanan_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/themloaimonan_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/themmonan_layout.xml" value="0.1" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/themnhanvien_layout.xml" value="0.20606884057971014" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/themsoluongmon_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/thongke_layout.xml" value="0.14808274470232088" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/layout/trangchu_layout.xml" value="0.14808274470232088" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/menu/item_menu.xml" value="0.28804902962206336" />
+        <entry key="..\:/NAM4/KY2/DOT2/Android/project with sqlserver/App/app/src/main/res/menu/main_menu_navigation.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/drawable/ic_baseline_airline_seat_legroom_normal_40.xml" value="0.234" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/drawable/ic_baseline_event_seat_40.xml" value="0.234" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/custom_layout_donhang.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/custom_layout_themloai.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/dangky_layout.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/dangnhap_layout.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/loaimonan_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/menu_navigation_header.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/menutrangchu_layout.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/thembanan_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/themloaimonan_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/themmonan_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/themsoluongmon_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/thongke_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/trangchu_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/layout/welcome_layout.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Nga/Documents/codeAndroidCT3/project with sqlserver (final)/project with sqlserver/App/app/src/main/res/menu/main_menu_navigation.xml" value="0.16979166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
